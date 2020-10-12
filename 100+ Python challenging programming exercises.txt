@@ -136,7 +136,7 @@ class InputOutString(object):
 strObj = InputOutString()
 strObj.getString()
 strObj.printString()
-#----------------------------------------#
+#----------------------------------------##
 
 #----------------------------------------#
 Question 6
